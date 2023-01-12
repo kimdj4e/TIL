@@ -7,6 +7,9 @@
 
 ## git 저장하는 법
 git status
+
 git add .
+
 git commit -m 'commit 내용'
+
 git push
